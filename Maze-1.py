@@ -103,3 +103,17 @@ def findEnd(maze, moves):# het einde zoeken
 
     return False
 
+# MAIN ALGORITHM
+
+nums = queue.Queue()
+nums.put("")
+add = ""
+maze  = createMaze()
+
+while not findEnd(maze, add): 
+    add = nums.get()
+    #print(add)
+    for j in ["L", "R", "U", "D"]:
+        put = add + j
+        if valid(maze, put):
+            nums.put(put)
