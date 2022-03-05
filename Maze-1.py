@@ -14,7 +14,7 @@ def createMaze():
 
     return maze
 
-ef printMaze(maze, path=""):#maze bekijken
+def printMaze(maze, path=""):#maze bekijken
     for x, pos in enumerate(maze[0]):
         if pos == "O":
             start = x
@@ -102,3 +102,4 @@ def findEnd(maze, moves):# het einde zoeken
         return True
 
     return False
+
