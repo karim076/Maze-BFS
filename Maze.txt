@@ -1,0 +1,12 @@
+These maze's can be used in the maz-1.py if you want to see what it does in different situation
+    maze.append(["#","#", "#", "#", "#", "O", "#", "#", "#"])
+    maze.append(["#"," ", " ", " ", " ", " ", " ", " ", "#"])
+    maze.append(["#"," ", "#", "#", " ", "#", "#", " ", "#"])
+    maze.append(["#"," ", "#", " ", " ", " ", "#", " ", "#"])
+    maze.append(["#"," ", "#", " ", "#", " ", " ", " ", "#"])
+    maze.append(["#"," ", "#", " ", " ", "#", "#", " ", "#"])
+    maze.append(["#"," ", "#", " ", "#", " ", "#", "#", "#"])
+    maze.append(["#"," ", " ", " ", " ", " ", " ", " ", "#"])
+    maze.append(["#"," ", "#", " ", "#", " ", "#", " ", "#"])
+    maze.append(["#","#", " ", " ", "#", " ", "#", " ", "#"])
+    maze.append(["#","X", "#", "#", "#", "#", "#", "#", "#"])
