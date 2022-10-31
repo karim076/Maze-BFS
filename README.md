@@ -1,5 +1,9 @@
-# Maze-Breadth_First_Search
- There are no extra needed things to be dowloaded to run the code just run it how its made.
- Changeble: You could change the Maze if you want. 
- AI playing maze.
- Made by Karim Alkichouhio
+## Maze-Breadth_First_Search
+# How to run
+This game is ready to go when downloaded
+# customizalbe
+- maze
+
+## credit
+
+Made by Karim Alkichouhi
